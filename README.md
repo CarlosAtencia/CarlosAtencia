@@ -1,10 +1,18 @@
-# Buenas soy Carlos y este es mi perfil
+![Ceuta](http://www.amarresceuta.es/asset/thumbnail,992,558,center,center/media/amarresceuta/images/2017/02/10/2017021015301637782.jpg)
 
-### Soy de ![ceutalogo (3)](https://user-images.githubusercontent.com/124048104/225750470-df398b6f-77b9-4088-896e-a812c373b68e.png)
-
-
+# Perfil de CarlosAtencia
 
 
 
+Soy de Ceuta, España 
+<br/><br/>
+Actualmente soy estudiante en el 1º año de **Desarrollo de Aplicaciones Web** en CIFP Nº1 en Ceuta
+
+
+
+
+## Tengo experiencia en :
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,php,js,md,mysql,vscode)](https://skillicons.dev)
 
 
